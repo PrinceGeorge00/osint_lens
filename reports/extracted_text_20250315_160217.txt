@@ -1,0 +1,55 @@
+< Make Your Job Easier
+
+You can take any Linux and install pentesting
+tools on it, but you have to set the tools up
+manually and configure them. Kali is optimized to
+reduce the amount of work, so a professional can
+
+just sit down and go.
+
+{11 Documentation
+
+Kali Linux is a platform.
+
+© Kali Everywhere
+
+A version of Kali is always close to you, no matter
+where you need it. Mobile devices, Containers,
+ARM, Cloud providers, Windows Subsystem for
+Linux, Pre-built Virtual Machine, Installer Images,
+
+and others are all available.
+
+Sd) Community
+
+(2) Customization
+
+With the use of metapackages, optimized for the
+specific tasks of a security professional, and a
+highly accessible and well documented ISO
+customization process, it's always easy to
+generate an optimized version of Kali for your
+
+specific needs.
+
+Simaeo
+
+Whether you are a seasoned veteran or a novice,
+our documentation will have all the information
+you will need to know about Kali Linux. Multiple
+tips and “recipes” are available, to help ease
+doubts or address any issues. All documentation
+
+is open, so you can easily contribute.
+
+© recenay uses
+Ma nireptcaons
+
+Kali Linux, with its BackTrack lineage, has a
+vibrant and active community. There are active
+Kali forums, IRC Channel, Kali Tools listings, an
+open bug tracker system, and even community
+
+provided tool suggestions.
+
+(Lo # a esslae
